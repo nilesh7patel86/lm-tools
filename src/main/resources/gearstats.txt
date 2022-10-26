@@ -1,0 +1,1243 @@
+SetName|Arctic Flipper Set
+Accessory|Polar Ring
+Cavalry ATK|4%|7.75%|11.75%|15.75%|25%|35%
+Ranged ATK|4%|7.75%|11.75%|15.75%|25%|35%
+Cavalry Max HP|2.40%|4.65%|7.05%|9.45%|15%|21%
+Ranged Max HP|2.40%|4.65%|7.05%|9.45%|15%|21%
+Player Level 60
+
+Helmet|Orca Mask
+Cavalry ATK|2.10%|4.05%|6.10%|8.20%|13%|18.20%
+Ranged ATK|2.10%|4.05%|6.10%|8.20%|13%|18.20%
+Ranged DEF|1.10%|2.15%|3.30%|4.40%|7%|9.80%
+Cavalry Max HP|1.30%|2.50%|3.75%|5.05%|8%|11.20%
+Player Level 50
+
+Legs|Blizzard Pants
+Cavalry ATK|4.80%|9.30%|14.10%|18.90%|30%|42%
+Ranged ATK|4.80%|9.30%|14.10%|18.90%|30%|42%
+Army DEF|1.60%|3.10%|4.70%|6.30%|10%|14%
+Army Max HP|1.90%|3.70%|5.65%|7.55%|12%|16.80%
+Player Level 60
+
+Off-hand|Arctic Net
+Cavalry ATK|1.60%|3.10%|4.70%|6.30%|10%|14%
+Ranged ATK|1.60%|3.10%|4.70%|6.30%|10%|14%
+Cavalry DEF|0.80%|1.55%|2.35%|3.15%|5%|7%
+Ranged Max HP|0.80%|1.55%|2.35%|3.15%|5%|7%
+Player Level 45
+
+SetName|Blackwing Set
+Accessory|Dragon's Iris
+Cavalry ATK|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Range ATK|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Army Max HP|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Player Level 55
+
+Legs|Dragon's Talon
+Infantry ATK|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Range ATK|4.80%|9.35%|14.00%|19.00%|30.00%|42.00%
+Army Max HP|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Player Level 60
+
+Main-hand|Dragon's Bite
+Infantry ATK|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Army Max HP|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Player Level 40
+
+Off-hand|Dragon's Fist
+Cavalry ATK|3.50%|6.85%|10.35%|14.00%|22.00%|30.80%
+Army Max HP|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Player Level 50
+
+SetName|Bon Appeti Set
+Accessory|Ambrosial Cup
+Infantry ATK|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Range ATK|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Infantry MAX HP|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Ranged MAX HP|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Player Level 60
+
+Armor|Hedonic Cuirass
+Infantry ATK|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Range ATK|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Infantry MAX HP|1.80%|9.35%|14.00%|19.00%|30.00%|42.00%
+Player Level 55
+
+Helmet|Indulgent Visage
+Infantry ATK|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Range ATK|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Player Level 40
+
+Main-hand|Decadent Sword
+Infantry ATK|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Range ATK|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Ranged DEF|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Infantry MAX HP|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Player Level 55
+
+SetName|Champion Set
+Accessory|Champion Blessing
+Infantry ATK|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Range ATK|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Army ATK|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Army Max HP|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Player Level 60
+
+Accessory|Champion Faith
+Infantry ATK|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Cavalry ATK|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Army ATK|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Army Max HP|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Player Level 60
+
+Accessory|Champion Valor
+Cavalry ATK|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Range ATK|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Army ATK|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Army Max HP|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Player Level 60
+
+Armor|Champion Cuirass
+Cavalry ATK|4.80%|9.35%|14.00%|19.00%|30.00%|42.00%
+Army ATK|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Army DEF|5.50%|10.85%|16.55%|22.50%|35.00%|49.00%
+Army Max HP|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Reduced Upkeep|8.25%|16.15%|24.45%|32.75%|52.00%|72.80%
+Player Level 60
+
+Armor|Champion Mail
+Infantry ATK|4.80%|9.35%|14.00%|19.00%|30.00%|42.00%
+Army ATK|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Army DEF|5.50%|10.85%|16.55%|22.50%|35.00%|49.00%
+Army Max HP|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Reduced Upkeep|8.25%|16.15%|24.45%|32.75%|52.00%|72.80%
+Player Level 60
+
+Armor|Champion Plate
+Range ATK|5.50%|10.85%|16.55%|22.50%|35.00%|56.00%
+Army DEF|6.80%|13.25%|20.00%|26.75%|42.50%|59.50%
+Reduced Upkeep|8.25%|16.15%|24.45%|32.75%|52.00%|72.80%
+Army Max HP|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Player Level 60
+
+Helmet|Champion Armet
+Cavalry ATK|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Range ATK|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Army ATK|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Army Max HP|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Gold Production|12.00%|23.25%|35.25%|47.25%|75.00%|105.00%
+Player Level 60
+
+Helmet|Champion Helm
+Cavalry ATK|4.80%|9.35%|14.00%|19.00%|30.00%|49.00%
+Army ATK|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Army Max HP|5.50%|10.85%|16.55%|22.50%|35.00%|49.00%
+Gold Production|12.00%|23.25%|35.25%|47.25%|75.00%|105.00%
+Player Level 60
+
+Helmet|Champion Visor
+Infantry ATK|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Range ATK|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Army ATK|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Army Max HP|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Gold Production|12.00%|23.25%|35.25%|47.25%|75.00%|105.00%
+Player Level 60
+
+Legs|Champion Boots
+Range ATK|6.40%|12.40%|18.80%|26.00%|40.00%|56.00%
+Army ATK|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Army HP|3.50%|6.85%|10.35%|14.00%|22.00%|30.80%
+Travel Speed|8.00%|15.50%|23.50%|31.50%|50.00%|70.00%
+Player Level 60
+
+Legs|Champion Greaves
+Cavalry ATK|6.40%|12.40%|18.80%|26.00%|40.00%|56.00%
+Army ATK|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Army Max HP|3.50%|6.85%|10.35%|14.00%|22.00%|30.80%
+Travel Speed|8.00%|15.50%|23.50%|31.50%|50.00%|70.00%
+Player Level 60
+
+Legs|Champion Stride
+Infantry ATK|4.80%|9.35%|14.00%|19.00%|30.00%|56.00%
+Army ATK|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Army Max HP|3.50%|6.85%|10.35%|14.00%|22.00%|30.80%
+Travel Speed|8.00%|15.50%|23.50%|31.50%|50.00%|70.00%
+Player Level 60
+
+Main-hand|Champion Blade
+Infantry ATK|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Range ATK|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Army ATK|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Army DEF|2.75%|5.25%|8.00%|10.75%|17.00%|23.80%
+Research Speed|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Player Level 60
+
+Main-hand|Champion Edge
+Cavalry ATK|5.50%|10.85%|16.55%|22.50%|35.00%|49.00%
+Army ATK|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Army DEF|2.75%|5.25%|8.00%|10.75%|17.00%|23.80%
+Research Speed|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Player Level 60
+
+Main-hand|Champion Greatsword
+Cavalry ATK|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Range ATK|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Army ATK|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Army DEF|2.75%|5.25%|8.00%|10.75%|17.00%|23.80%
+Research Speed|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Player Level 60
+
+Off-hand|Champion Katar
+Cavalry ATK|5.50%|10.85%|16.55%|22.50%|35.00%|49.00%
+Range ATK|4.80%|9.35%|14.00%|19.00%|30.00%|42.00%
+Army DEF|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Training Speed|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Player Level 60
+
+Off-hand|Champion Lamp
+Infantry ATK|4.80%|9.35%|14.00%|19.00%|30.00%|42.00%
+Range ATK|5.50%|10.85%|16.55%|22.50%|35.00%|49.00%
+Army DEF|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Training Speed|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Player Level 60
+
+Off-hand|Champion Light
+Infantry ATK|5.50%|10.85%|16.55%|22.50%|35.00%|49.00%
+Cavalry ATK|4.80%|9.35%|14.00%|9.00%|30.00%|42.00%
+Army DEF|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Training Speed|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Player Level 60
+
+SetName|Cottageroar Set
+Armor|Spooky Coat
+Infantry ATK|1.8%|3.4%|5.2%|6.9%|11%|15.4%
+Infantry DEF|1.6%|3.1%|4.7%|6.3%|10%|14%
+Infantry Max HP|1.3%|2.5%|3.75%|5%|8%|11.2%
+Player Level 45
+
+Legs|Steps of Reckoning
+Infantry ATK|2.55%|4.95%|7.5%|10.1%|16%|22.4%
+Infantry DEF|1.9%|3.7%|5.6%|7.6%|12%|16.8%
+Infantry Max HP|1.3%|2.5%|3.75%|5%|8%|11.2%
+Player Level 50
+
+Main-hand|Ghastly Cane
+Infantry ATK|5.2%|10.1%|15.3%|20.5%|32.5%|45.5%
+Infantry Max HP|1.6%|3.1%|4.7%|6.3%|10%|14%
+Army DEF|2.4%|4.65%|7.05%|9.45%|15%|21%
+Player Level 60
+
+Off-hand|Eerie Lantern
+Infantry ATK|4.8%|9.3%|14.1%|18.9%|30%|42%
+Infantry DEF|1.6%|3.1%|4.7%|6.3%|10%|14%
+Army Max HP|1.6%|3.1%|4.7%|6.3%|10%|14%
+Player Level 60
+
+SetName|Frostwing Set
+Accessory|Frostwing's Breath
+Infantry ATK|1.25%|2.25%|3.50%|5.00%|8.00%|11.20%
+Cavalry ATK|1.25%|2.25%|3.50%|5.00%|8.00%|11.20%
+Gold Production|8.00%|15.50%|23.50%|32.00%|50.00%|70.00%
+Player Level 55
+
+Armor|Frostwing Armor
+Infantry ATK|1.20%|2.40%|3.65%|5.00%|8.00%|11.20%
+Range ATK|1.20%|2.40%|3.65%|5.00%|8.00%|11.20%
+Siege ATK|2.00%|3.85%|5.85%|8.00%|12.50%|17.50%
+Player Level 50
+
+Helmet|Frostwing Helm
+Range ATK|1.45%|2.85%|4.25%|5.80%|9.00%|12.60%
+Siege Engine ATK|1.20%|2.35%|3.50%|4.80%|7.50%|10.50%
+Army Max HP|1.85%|3.45%|5.25%|7.15%|11.50%|16.10%
+Player Level 50
+
+Legs|Frostwing Boots
+Cavalry ATK|0.95%|1.85%|2.75%|3.75%|6.00%|8.40%
+Siege Engine ATK|0.80%|1.55%|2.35%|3.25%|5.00%|7.00%
+Wall DEF|2.35%|4.50%|6.75%|9.00%|14.50%|20.30%
+Player Level 40
+
+Main-hand|Frostwing Greatsword
+Infantry ATK|3.00%|6.00%|9.20%|12.50%|20.00%|28.00%
+Cavalry ATK|3.00%|6.00%|9.20%|12.50%|20.00%|28.00%
+Range ATK|2.00%|3.85%|5.85%|8.00%|12.50%|17.50%
+Player Level 60
+
+Off-hand|Frostwing Shield
+Army DEF|2.00%|3.85%|5.85%|8.00%|12.50%|17.50%
+Army Max HP|1.35%|2.65%|4.00%|5.40%|8.50%|11.90%
+Wall DEF|1.45%|2.85%|4.25%|5.80%|9.00%|12.60%
+Player Level 40
+
+SetName|Gargantua Set
+Accessory|Fear Drum
+Cavalry ATK|2.55%|4.95%|7.50%|10.05%|16.00%|22.40%
+Siege Engine ATK|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Cavalry Max HP|0.85%|1.75%|2.65%|3.65%|5.50%|7.70%
+Gold Production|5.60%|10.85%|16.45%|22.05%|35.00%|49.00%
+Player Level 50
+
+Helmet|Blood-Stained Helm
+Cavalry ATK|1.20%|2.40%|3.65%|5.00%|8.00%|11.20%
+Cavalry DEF|1.20%|2.40%|3.65%|5.00%|8.00%|11.20%
+Cavalry Max HP|1.20%|2.40%|3.65%|5.00%|8.00%|11.20%
+Player Level 40
+
+Legs|Gargantuan Belt
+Cavalry ATK|6.00%|11.65%|17.65%|24.00%|37.50%|52.50%
+Cavalry Max HP|4.50%|8.50%|13.00%|18.00%|27.50%|38.50%
+Army DEF|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Stone Production|8.00%|15.50%|23.50%|31.50%|50.00%|70.00%
+Player Level 60
+
+Main-hand|Horn Cudgel
+Cavalry ATK|4.80%|9.35%|14.00%|19.00%|30.00%|42.00%
+Cavalry DEF|2.40%|4.65%|7.05%|9.45%|15.00%|21.00%
+Trap DEF|5.50%|10.85%|16.55%|22.50%|35.00%|49.00%
+Player Level 60
+
+SetName|Grim Reaper Set
+Armor|Deathly Mantle
+Range ATK|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Trap ATK|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Army DEF|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Player Level 50
+
+Helmet|Ancient Hat
+Range ATK|4.50%|8.60%|13.15%|17.85%|28.00%|39.20%
+Range DEF|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Army DEF|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Player Level 55
+
+Legs|Nether Walkers
+Range ATK|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Range DEF|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Army DEF|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Player Level 45
+
+Main-hand|Harbinger
+Range ATK|1.20%|2.40%|3.65%|5.00%|8.00%|11.20%
+Army DEF|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Player Level 40
+
+Off-hand|Eternal Codex
+Cavalry ATK|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Range ATK|5.50%|10.85%|16.55%|22.50%|35.00%|49.00%
+Cavalry Max HP|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Player Level 60
+
+SetName|Gryphon Set
+Legs|Gryphon Walkers
+Food Production|16.00%|31.00%|47.00%|63.00%|100.00%|140.00%
+Construction Speed|5.60%|10.85%|16.45%|22.50%|35.00%|49.00%
+Research Speed|2.80%|5.45%|8.25%|11.50%|17.50%|24.50%
+Player Level 55
+
+Off-hand|Gryphon's Talon
+Army Capacity|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Gold Production|5.60%|10.85%|16.45%|22.50%|35.00%|49.00%
+Construction Speed|2.80%|5.50%|8.25%|11.00%|17.50%|24.50%
+Player Level 45
+
+SetName|Hardrox Set
+Helmet|Coarse Helm
+Timber Production|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Forging Speed|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Training Speed|0.80%|1.20%|1.80%|2.50%|5.00%|7.00%
+Player Level 40
+
+Legs|Craggy Greaves
+Ore Production|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Training Speed|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Gathering Speed|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Player Level 50
+
+SetName|Hell Drider Set
+Accessory|Burning Scroll
+Army ATK|1.45%|2.75%|4.25%|5.85%|9.00%|12.60%
+Army Max HP|1.45%|2.75%|4.25%|5.85%|9.00%|12.60%
+Timber Production|5.50%|10.85%|16.55%|22.50%|35.00%|49.00%
+Player Level 55
+
+Armor|Armor of the Abyss
+Infantry DEF|0.80%|1.20%|1.80%|2.50%|5.00%|7.00%
+Cavalry Max HP|0.80%|1.20%|1.80%|2.50%|5.00%|7.00%
+Army ATK|0.80%|1.20%|1.80%|2.50%|5.00%|7.00%
+Player Level 40
+
+Legs|Legs of the Deceiver
+Range ATK|0.80%|1.20%|1.80%|2.50%|5.00%|7.00%
+Range DEF|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Army ATK|1.95%|3.75%|5.65%|7.50%|12.00%|16.80%
+Player Level 55
+
+Main-hand|Skullcrusher
+Range ATK|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Infantry DEF|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Army ATK|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Player Level 60
+
+Off-hand|Dark Aegis
+Infantry ATK|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Army ATK|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Player Level 50
+
+SetName|Hootclaw Set
+Armor|Beastly Breastplate
+Ranged ATK|5.60%|10.85%|16.45%|22.05%|35.00%|49.00%
+Ranged Max HP|2.40%|4.65%|7.05%|9.45%|15.00%|21.00%
+Army DEF|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Player Level 60
+
+Helmet|Strigine Hood
+Cavalry ATK|1.10%|2.20%|3.30%|4.40%|7.00%|9.80%
+Cavalry Max HP|1.60%|3.10%|4.70%|6.30%|10.00%|14.00%
+Army Max HP|0.50%|0.90%|1.40%|1.90%|3.00%|4.20%
+Player Level 45
+
+Legs|Stealthy Steps
+Ranged ATK|2.55%|4.95%|7.50%|10.10%|16.00%|22.40%
+Ranged DEF|3.20%|6.20%|9.40%|12.60%|20.00%|28.00%
+Army Max HP|1.30%|2.50%|3.75%|5.00%|8.00%|11.20%
+Player Level 50
+
+Off-hand|Lunar Boomerang
+Cavalry ATK|4.80%|9.30%|14.10%|18.90%|30.00%|42.00%
+Cavalry DEF|2.40%|4.65%|7.05%|9.45%|15.00%|21.00%
+Cavalry Max HP|2.40%|4.65%|7.05%|9.45%|15.00%|21.00%
+Player Level 60
+
+SetName|Hunter Set
+Accessory|Hunting Horn
+Monster Hunt Travel Speed|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Max Energy|80|120|180|250|500|700
+Monster Hunt DMG Boost|0.80%|1.20%|1.80%|2.50%|5.00%|7.00%
+Player Level 45
+
+Armor|Hunting Plate
+Monster Hunt Travel Speed|1.60%|2.40%|3.60%|5.00%|10.00%|14.00%
+Max Energy|160|240|360|500|1,000|1,400
+Monster Hunt DMG Boost|3.20%|4.80%|7.20%|10.00%|20.00%|28.00%
+Player Level 50
+
+Helmet|Hunting Helm
+Energy Saver|0.80%|1.35%|2.00%|3.00%|5.00%|7.00%
+Max Energy|450|900|1,400|1,950|3,000|4,200
+Monster Hunt DMG Boost|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Player Level 60
+
+Legs|Hunting Greaves
+Monster Hunt Travel Speed|4.50%|9.00%|14.00%|19.50%|30.00%|42.00%
+Max Energy|320|620|940|1,260|2,000|2,800
+Monster Hunt DMG Boost|0.80%|1.20%|1.80%|2.50%|5.00%|7.00%
+Monster Hunt Starting MP|5|10|15|25|50|70
+Player Level 55
+
+Main-hand|Earthshatter
+Energy Saver|0.80%|1.35%|2.00%|3.00%|5.00%|7.00%
+Max Energy|320|620|940|1,260|2,000|2,800
+Monster Hunt DMG Boost|4.50%|9.00%|14.00%|19.50%|30.00%|42.00%
+Player Level 60
+
+Off-hand|Hunting Mace
+Monster Hunt DMG Boost|4.00%|8.50%|13.50%|19.00%|30.00%|42.00%
+Monster Hunt Starting MP|5|10|15|25|50|70
+Player Level 50
+
+SetName|Jade Wyrm Set
+Accessory|Wyrm Seal
+Ranged ATK|2.55%|4.95%|7.50%|10.05%|16.00%|22.40%
+Siege Engine ATK|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Army Max HP|1.20%|2.40%|3.65%|5.00%|8.00%|11.20%
+Stone Production|5.60%|10.85%|16.45%|22.50%|35.00%|49.00%
+Player Level 55
+
+Helmet|Wyrmbone Coronet
+Ranged ATK|5.25%|10.00%|15.25%|21.00%|32.50%|45.50%
+Ranged DEF|3.25%|6.25%|9.45%|13.00%|20.00%|28.00%
+Army Max HP|2.00%|3.85%|5.85%|8.00%|12.50%|17.50%
+Research Speed|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Player Level 60
+
+Main-hand|Wyrm Rod
+Ranged ATK|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Ranged Max HP|2.80%|5.50%|8.25%|11.00%|17.50%|24.50%
+Timber Production|8.00%|15.50%|23.50%|31.50%|50.00%|70.00%
+Player Level 50
+
+Off-hand|Wyrm Lantern
+Ranged ATK|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Cavalry DEF|8.80%|1.20%|1.80%|2.50%|5.00%|7.00%
+Ranged Max HP|1.45%|2.80%|4.25%|5.75%|9.00%|12.60%
+Player Level 40
+
+SetName|Mecha Trojan Set
+Accessory|Secret Totem
+Infantry ATK|1.15%|2.15%|3.25%|4.45%|7.00%|9.80%
+Siege Engine ATK|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Infantry MAX HP|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Army DEF|1.15%|2.15%|3.25%|4.45%|7.00%|9.80%
+Player Level 45
+
+Armor|Firewall Plate
+Infantry ATK|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Cavalry ATK|4.80%|9.35%|14.00%|19.00%|30.00%|42.00%
+Siege Engine ATK|4.80%|9.35%|14.00%|19.00%|30.00%|42.00%
+Army MAX HP|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Player Level 60
+
+Legs|Corrupted Boots
+Infantry ATK|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Siege Engine ATK|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Infantry DEF|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Siege Engine MAX HP|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Player Level 40
+
+Main-hand|Malicious Saw
+Infantry ATK|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Siege Engine ATK|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Infantry DEF|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Siege Engine DEF|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Player Level 50
+
+Off-hand|Viral Switchblade
+Infantry ATK|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Ranged ATK|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Siege Engine ATK|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Siege Engine DEF|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Player Level 50
+
+SetName|Mega Maggot Set
+Accessory|Blight Ring
+Range ATK|2.20%|4.35%|6.55%|8.85%|14.00%|19.60%
+Army DEF|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Army Max HP|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Wall DEF|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Player Level 60
+
+Armor|Grimy Plate
+Infantry ATK|1.20%|2.40%|3.65%|5.00%|8.00%|11.20%
+Infantry Max HP|1.45%|2.80%|4.25%|5.75%|9.00%|12.60%
+Wall DEF|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Player Level 40
+
+Helmet|Shadow Helm
+Infantry ATK|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Trap ATK|4.80%|9.35%|14.00%|19.00%|30.00%|42.00%
+Trap DEF|4.80%|9.35%|14.00%|19.00%|30.00%|42.00%
+Wall DEF|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Player Level 50
+
+Off-hand|Orb of Pestilence
+Cavalry ATK|1.75%|3.45%|5.15%|7.00%|11.00%|15.40%
+Trap ATK|4.80%|9.35%|14.00%|19.00%|30.00%|42.00%
+Trap Max HP|7.20%|13.95%|21.15%|28.35%|45.00%|63.00%
+Player Level 45
+
+SetName|Necrosis Set
+Accessory|Book of the Dead
+Infantry ATK|4%|7.75%|11.75%|15.75%|25%|35%
+Cavalry ATK|4%|7.75%|11.75%|15.75%|25%|35%
+Cavalry DEF|3.20%|6.20%|9.40%|12.60%|20%|28%
+Infantry Max HP|2.40%|4.65%|7.05%|9.45%|15%|21%
+Player Level 60
+
+Armor|Skeletal Armor|Infantry ATK|1.60%|3.10%|4.70%|6.30%|10%|14%
+Cavalry ATK|1.60%|3.10%|4.70%|6.30%|10%|14%
+Infantry DEF|1.10%|2.15%|3.30%|4.40%|7%|9.80%
+Cavalry Max HP|0.95%|1.86%|2.80%|3.80%|6%|8.40%
+Player Level 45
+
+Helmet|Devourer Helm
+Infantry ATK|2.10%|4.05%|6.10%|8.20%|13%|18.20%
+Cavalry ATK|2.10%|4.05%|6.10%|8.20%|13%|18.20%
+Cavalry DEF|1.60%|3.10%|4.70%|6.30%|10%|14%
+Infantry Max HP|0.80%|1.55%|2.35%|3.15%|5%|7%
+Player Level 50
+
+Off-hand|Spirit Axe
+Infantry ATK|4%|7.75%|11.75%|15.75%|25%|35%
+Cavalry ATK|4%|7.75%|11.75%|15.75%|25%|35%
+Cavalry Max HP|1.60%|3.10%|4.70%|6.30%|10%|14%
+Army DEF|1.60%|3.10%|4.70%|6.30%|10%|14%
+Player Level 60
+
+SetName|Noceros Set
+Armor|Lightning Guard
+Gold Production|8.00%|15.50%|23.50%|32.50%|50.00%|70.00%
+Construction Speed|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Gathering Speed|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Player Level 45
+
+Helmet|Noceros Mask
+Army Capacity|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Travel Speed|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Construction Speed|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Gathering Speed|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Player Level 40
+
+Main-hand|Electric Lance
+Army Capacity|5.50%|10.85%|16.55%|22.50%|35.00%|49.00%
+Travel Speed|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Research Speed|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Gathering Speed|4.80%|9.34%|14.00%|19.00%|30.00%|42.00%
+Player Level 50
+
+SetName|Queen Bee Set
+Armor|Hardened Carapace
+Cavalry ATK|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Ranged ATK|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Army DEF|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Player Level 55
+
+Helmet|Bumblehelm
+Cavalry ATK|4.80%|9.35%|14.00%|19.00%|30.00%|42.00%
+Ranged ATK|4.80%|9.35%|14.00%|19.00%|30.00%|42.00%
+Army Max HP|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Player Level 60
+
+Legs|Honeycomb Chaps
+Cavalry ATK|1.80%|3.60%|5.60%|7.60%|12.00%|16.80%
+Ranged ATK|1.80%|3.60%|5.60%|7.60%|12.00%|16.80%
+Ranged DEF|0.80%|1.20%|1.80%|2.50%|5.00%|7.00%
+Player Level 40
+
+Main-hand|Nectar Orb
+Cavalry ATK|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Ranged ATK|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Cavalry DEF|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Ranged MAX HP|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Player Level 55
+
+SetName|Saberfang Set
+Accessory|Ivory Choker
+Cavalry ATK|1.20%|2.40%|3.65%|5.00%|8.00%|11.20%
+Trap ATK|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Trap Def|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Travel Speed|1.20%|2.40%|3.65%|5.00%|8.00%|11.20%
+Player Level 40
+
+Armor|Predator Pauldrons
+Cavalry ATK|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Cavalry Max HP|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Army DEF|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Travel Speed|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Player Level 50
+
+Helmet|Beast Helm
+Infantry ATK|4.80%|9.35%|14.00%|19.00%|30.00%|42.00%
+Cavalry ATK|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Army Max HP|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Travel Speed|5.50%|10.85%|16.55%|22.50%|35.00%|49.00%
+Player Level 60
+
+Legs|Untamed Boots
+Cavalry ATK|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Cavalry DEF|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Army Max HP|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Travel Speed|4.80%|9.35%|14.00%|19.00%|30.00%|42.00%
+Player Level 55
+
+Main-hand|Ripper Claw
+Cavalry ATK|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Cavalry DEF|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Travel Speed|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Player Level 45
+
+SetName|Serpent Gladiator Set
+Accessory|Coiled Armband
+Infantry ATK|2.10%|4.05%|6.10%|8.20%|13%|18.20%
+Ranged ATK|2.10%|4.05%|6.10%|8.20%|13%|18.20%
+Infantry DEF|1.60%|3.10%|4.70%|6.30%|10%|14%
+Ranged Max HP|1.30%|2.50%|3.75%|5.05%|8%|11.20%
+Player Level 50
+
+Helmet|Serpent Helm
+Infantry ATK|4.80%|9.30%|14.10%|18.90%|30%|42%
+Ranged ATK|4.80%|9.30%|14.10%|18.90%|30%|42%
+Infantry Max HP|2.40%|4.65%|7.05%|9.45%|15%|21%
+Army DEF|4%|7.75%|11.75%|15.75%|25%|35%
+Player Level 60
+
+Legs|Desert Trousers
+Infantry ATK|1.60%|3.10%|4.70%|6.30%|10%|14%
+Ranged ATK|1.60%|3.10%|4.70%|6.30%|10%|14%
+Ranged DEF|1.10%|2.15%|3.30%|4.40%|7%|9.80%
+Infantry Max HP|0.50%|0.95%|1.40%|1.90%|3%|4.20%
+Player Level 45
+
+Off-hand|Venom Blade
+Infantry ATK|4%|7.75%|11.75%|15.75%|25%|35%
+Ranged ATK|4%|7.75%|11.75%|15.75%|25%|35%
+Ranged DEF|1.60%|3.10%|4.70%|6.30%|10%|14%
+Army Max HP|1.60%|3.10%|4.70%|6.30%|10%|14%
+Player Level 60
+
+SetName|Snow Beast Set
+Armor|Winter Parka
+Infantry ATK|2.00%|3.85%|5.85%|8.00%|12.50%|17.50%
+Cavalry DEF|4.00%|7.50%|11.25%|15.50%|25.00%|35.00%
+Army Max HP|2.50%|4.65%|7.05%|9.50%|15.00%|21.00%
+Player Level 50
+
+Legs|Winter Stompers
+Cavalry ATK|1.15%|2.15%|3.25%|4.35%|7.00%|9.80%
+Range DEF|4.00%|7.50%|11.25%|15.50%|25.00%|35.00%
+Army DEF|2.05%|4.05%|6.15%|8.50%|13.00%|18.20%
+Player Level 45
+
+Off-hand|Winter Mitts
+Range ATK|1.60%|3.20%|4.80%|6.50%|10.00%|14.00%
+Infantry DEF|5.20%|10.00%|15.20%|20.50%|32.50%|45.50%
+Army DEF|4.00%|7.50%|11.20%|15.50%|25.00%|35.00%
+Army Max HP|4.00%|7.50%|11.20%|15.50%|25.00%|35.00%
+Player Level 50
+
+SetName|Steampath Set
+Accessory|Power Vials
+Crafting Speed|1.70%|3.30%|5%|6.70%|10.70%|15%
+Crafting Capacity|34|66|100|134|214|300
+Stone Production Rate|2.40%|4.65%|7.05%|9.45%|15%|21%
+Player Level 60
+
+Armor|Energy Backpack
+Crafting Speed|1.70%|3.30%|5%|6.70%|10.70%|15%
+Crafting Capacity|11|21|32|44|70|100
+Ranged DEF|0.80%|1.55%|2.35%|3.15%|5%|7%
+Player Level 45
+
+Helmet|Night Goggles
+Crafting Speed|1.10%|2.20%|3.30%|4.45%%|7.10%|10%
+Crafting Capacity|11|21|32|44|70|100
+Timber Production Rate|1.60%|3.10%|4.70%|6.30%|10%|14%
+Player Level 40
+
+Legs|Mechanical Boots
+Crafting Speed|1.70%|3.30%|5%|6.70%|10.70%|15%
+Crafting Capacity|22|43|65|88|140|200
+Ore Production Rate|2.40%|4.65%|7.05%|9.45%|15%|21%
+Player Level 50
+
+Main-hand|Steam Pistol
+Crafting Speed|2.20%|4.30%|6.55%|8.80%|14%|20%
+Crafting Capacity|34|66|100|134|214|300
+Cavalry DEF|1.60%|3.10%|4.70%|6.30%|10%|14%
+Player Level 55
+
+Off-hand|Mechanical Gauntlet
+Crafting Speed|2.20%|4.30%|6.55%|8.80%|14%|20%
+Crafting Capacity|45|88|133|179|285|400
+Infantry DEF|1.60%|3.10%|4.70%|6.30%|10%|14%
+Player Level 60
+
+SetName|Terrorthorn Set
+Accessory|Terror Vial
+Infantry ATK|2.55%|4.95%|7.50%|10.05%|16.00%|22.40%
+Infantry Max HP|0.80%|1.20%|1.80%|2.50%|5.00%|7.00%
+Army DEF|1.20%|2.40%|3.65%|5.00%|8.00%|11.20%
+Ore Production|5.60%|10.85%|16.45%|22.05%|35.00%|49.00%
+Player Level 50
+
+Armor|Terror Shield
+Infantry ATK|5.60%|10.85%|16.45%|22.05%|35.00%|49.00%
+Infantry Max HP|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Army Max HP|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Research Speed|1.25%|2.50%|3.75%|5.05%|8.00%|11.20%
+Player Level 60
+
+Main-hand|Terror Lash
+Infantry ATK|4.50%|8.50%|13.00%|18.00%|27.50%|38.50%
+Infantry DEF|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Army Capacity|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Construction Speed|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Player Level 55
+
+Off-hand|Terror Blade
+Infantry ATK|1.45%|2.80%|4.25%|5.75%|9.00%|12.60%
+Infantry Max HP|1.95%|3.75%|5.65%|7.55%|12.00%|16.80%
+Timber Production|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Player Level 40
+
+SetName|Tidal Titan Set
+Accessory|Aqua Anemone
+Infantry ATK|1.20%|2.40%|3.65%|5.00%|8.00%|11.20%
+Cavalry ATK|1.20%|2.40%|3.65%|5.00%|8.00%|11.20%
+Player Level 40
+
+Legs|Storm Tasset
+Infantry ATK|4.80%|9.35%|14.00%|19.00%|30.00%|42.00%
+Cavalry ATK|4.80%|9.35%|14.00%|19.00%|30.00%|42.00%
+Army DEF|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Army Max HP|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Player Level 60
+
+Main-hand|Kraken's Anchor
+Infantry ATK|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Cavalry ATK|4.00%|7.75%|11.75%|16.00%|25.00%|35.00%
+Infantry DEF|2.05%|4.00%|6.15%|8.35%|13.00%|18.20%
+Cavalry Max HP|2.05%|4.00%|6.15%|8.35%|13.00%|18.20%
+Player Level 55
+
+Off-hand|Call of the Deep
+Infantry ATK|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Cavalry ATK|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Infantry MAX HP|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Cavalry Max HP|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Player Level 60
+
+SetName|Gawrilla Set
+Accessory|Rowdy Resolve
+Cavalry ATK|4%|7.75%|11.75%|15.75%|25%|35%
+Cavalry Max HP|1.60%|3.10%|4.70%|6.30%|10%|14%
+Cavalry DEF|1.20%|2.35%|3.55%|4.75%|7.50%|10.50%
+Player Level 60
+
+Armor|Brass Armor
+Cavalry ATK|1.45%|2.80%|4.25%|5.65%|9%|12.60%
+Cavalry Max HP|1.75%|3.40%|5.15%|6.95%|11%|15.40%
+Cavalry DEF|1.10%|2.15%|3.30%|4.40%|7%|9.80%
+Player Level 45
+
+Legs|Beastly Waistguard
+Cavalry ATK|2.55%|4.95%|7.50%|10.10%|16%|22.40%
+Cavalry Max HP|1.90%|3.70%|5.65%|7.55%|12%|16.80%
+Army DEF|1.90%|3.70%|5.65%|7.55%|12%|16.80%
+Player Level 50
+
+Main-hand|Eon Axe
+Cavalry ATK|6%|11.65%|17.65%|23.65%|37.50%|52.50%
+Cavalry Max HP|1.60%|3.10%|4.70%|6.30%|10%|14%
+Cavalry DEF|1.60%|3.10%|4.70%|6.30%|10%|14%
+Player Level 60
+
+SetName|Voodoo Shaman Set
+Armor|Spirit Mantle
+Merging Speed|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Familiar Training EXP|4.80%|9.35%|14.00%|19.00%|30.00%|42.00%
+Player Level 40
+
+Helmet|Accursed Mask
+Merging Speed|4.80%|9.35%|14.00%|19.00%|30.00%|42.00%
+Merging Speed (Skillstone)|0.50%|0.80%|1.25%|1.85%|3.00%|4.20%
+Player Level 50
+
+Legs|Ancestral Kilt
+Merging Speed|3.20%|6.20%|9.40%|13.00%|20.00%|28.00%
+Familiar Training EXP|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Player Level 40
+
+Main-hand|Bone Staff
+Merging Speed|2.40%|4.65%|7.00%|9.50%|15.00%|21.00%
+Familiar Training EXP|8.00%|15.50%|23.50%|32.00%|50.00%|70.00%
+Familiar Skill EXP Boost|0.50%|0.80%|1.25%|1.85%|3.00%|4.20%
+Player Level 60
+
+Off-hand|Blighted Vial
+Familiar Training EXP|8.00%|15.50%|23.50%|32.00%|50.00%|70.00%
+Merging Speed (Skillstone)|1.50%|2.50%|4.00%|6.00%|10.00%|14.00%
+Player Level 55
+
+SetName|F2P Set
+Accessory|Amber Ring
+Construction Speed|1.25%|3.75%|6.25%|8.75%|12.50%|17.50%
+Wall DEF|0.15%|0.30%|0.50%|0.66%|1.00%|1.40%
+Player Level 21
+
+Accessory|Ancient Hourglass
+Research Speed|0.95%|2.85%|4.75%|6.65%|9.50%|13.30%
+Gold Production|3.60%|7.00%|10.55%|13.95%|22.50%|31.50%
+Player Level 27
+
+Accessory|Crystal Tear
+Gold Production|3.60%|7.00%|10.55%|13.95%|23.00%|31.50%
+Cavalry ATK|0.70%|1.30%|2.00%|2.65%|4.00%|5.60%
+Siege Engine ATK|1.10%|2.15%|3.25%|4.30%|6.50%|9.10%
+Player Level 27
+
+Accessory|Hortensia Diamond
+Food Production|3.45%|10.35%|17.25%|24.15%|34.50%|48.30%
+Wall DEF|0.25%|0.50%|0.75%|1.00%|1.50%|2.10%
+Player Level 33
+
+Accessory|Lost Island's Relic
+Infantry ATK|1.00%|2.00%|3.00%|4.00%|6.00%|8.40%
+Range ATK|1.00%|2.00%|3.00%|4.00%|6.00%|8.40%
+Army Max HP|0.40%|0.85%|1.25%|1.65%|2.50%|3.50%
+Player Level 40
+
+Accessory|Lost Pocketwatch
+Construction Speed|1.80%|5.40%|9.00%|12.60%|18.00%|25.20%
+Research Speed|1.15%|3.45%|5.75%|8.05%|11.50%|16.10%
+Trap ATK|0.95%|1.80%|2.75%|3.65%|5.50%|7.70%
+Player Level 33
+
+Accessory|Lunar Flute
+Research Speed|2.50%|8.00%|13.00%|18.00%|26.00%|36.40%
+Food Production|3.80%|11.40%|19.00%|26.60%|38.00%|53.20%
+Army Max HP|0.40%|0.80%|1.25%|1.65%|2.50%|3.50%
+Player Level 40
+
+Accessory|Mystic Box
+Infantry ATK|1.00%|2.00%|3.00%|4.00%|6.00%|8.40%
+Merging Speed|2.50%|7.50%|12.50%|17.50%|25.00%|35.00%
+Familiar Training EXP|2.50%|7.50%|12.50%|17.50%|25.00%|35.00%
+Player Level 45
+
+Accessory|Neptune's Necklace
+Construction Speed|1.50%|4.50%|7.50%|10.50%|15.00%|21.00%
+Infantry ATK|0.70%|1.30%|2.00%|2.65%|4.00%|5.60%
+Wall DEF|0.25%|0.50%|0.75%|1.00%|1.50%|2.10%
+Player Level 27
+
+Accessory|Pirate's Eye Patch
+Construction Speed|0.80%|2.50%|4.00%|5.60%|8.00%|11.20%
+Research Speed|0.50%|1.50%|2.50%|3.50%|5.00%|7.00%
+Player Level 9
+
+Accessory|Prehistoric Horn
+Gold Production|2.10%|4.00%|6.10%|8.10%|13.00%|18.20%
+Army Max HP|0.15%|0.35%|0.50%|0.65%|1.00%|1.40%
+Player Level 15
+
+Accessory|Sentinel's Circlet
+Construction Speed|2.50%|7.50%|12.50%|17.50%|25.00%|35.00%
+Cavalry ATK|0.70%|1.30%|2.00%|2.65%|4.00%|5.60%
+Siege Engine ATK|1.55%|3.00%|4.50%|5.95%|9.00%|12.60%
+Player Level 40
+
+Accessory|Star Dust
+Food Production|2.70%|8.10%|13.50%|18.90%|27.00%|37.80%
+Range ATK|0.70%|1.30%|2.00%|2.65%|4.00%|5.60%
+Army Max HP|0.35%|0.65%|1.00%|1.30%|2.00%|2.80%
+Player Level 27
+
+Armor|Cavalry Mail
+Research Speed|0.70%|2.10%|3.50%|4.90%|7.00%|9.80%
+Food Production|3.10%|9.30%|15.50%|21.70%|31.00%|43.40%
+Siege Engine ATK|1.20%|2.30%|3.50%|4.60%|7.00%|9.80%
+Player Level 35
+
+Armor|Centaur Saddle
+Army Capacity|2.50%|5.00%|7.50%|10.00%|12.50%|17.50%
+Army DEF|0.95%|1.85%|2.85%|3.75%|5.70%|7.98%
+Player Level 35
+
+Armor|Ceremonial Toga
+Siege Engine ATK|0.50%|1.00%|1.50%|2.00%|3.00%|4.20%
+Army Capacity|1.00%|2.00%|3.00%|4.00%|5.00%|7.00%
+Player Level 13
+
+Armor|Elder Garb
+Research Speed|0.55%|1.65%|2.75%|3.85%|5.50%|7.70%
+Siege Engine ATK|0.85%|1.65%|2.50%|3.30%|5.00%|7.00%
+Player Level 25
+
+Armor|Guardian Chestplate
+Construction Speed|0.15%|0.45%|0.75%|1.05%|1.50%|2.10%
+Army Max HP|0.15%|0.35%|0.50%|0.65%|1.00%|1.40%
+Player Level 7
+
+Armor|Odysseus
+Construction Speed|0.50%|1.55%|2.60%|3.65%|5.20%|7.28%
+Siege Engine ATK|1.25%|2.45%|3.75%|4.95%|7.50%|10.50%
+Army DEF|1.05%|2.05%|3.15%|4.15%|6.20%|8.68%
+Player Level 40
+
+Armor|Prowler Vest
+Siege Engine ATK|1.00%|2.00%|3.00%|4.00%|6.00%|8.40%
+Army Capacity|2.20%|4.40%|6.60%|8.80%|11.00%|15.40%
+Army DEF|0.85%|1.65%|2.50%|3.50%|5.00%|7.00%
+Player Level 31
+
+Armor|Regal Platemail
+Siege Engine ATK|1.25%|2.50%|3.75%|4.95%|7.50%|10.50%
+Army Capacity|2.80%|5.60%|8.40%|11.20%|14.00%|19.60%
+Army Max HP|0.85%|1.65%|2.50%|3.50%|5.00%|7.00%
+Player Level 40
+
+Armor|Summoner Robe
+Food Production|2.70%|8.00%|13.50%|18.50%|27.00%|37.80%
+Siege Engine ATK|1.00%|2.00%|3.00%|4.00%|6.00%|8.40%
+Army DEF|8.50%|1.65%|2.50%|3.50%|5.00%|7.00%
+Player Level 31
+
+Armor|Wyvern Soul
+Siege Engine ATK|0.66%|1.25%|1.95%|2.55%|3.80%|5.32%
+Army Max HP|0.44%|0.85%|1.35%|1.75%|2.60%|3.64%
+Player Level 19
+
+Helmet|Barbarian Helmet
+Infantry ATK|0.40%|0.80%|1.25%|1.65%|2.50%|3.50%
+Army DEF|0.75%|1.50%|2.25%|3.00%|4.50%|6.30%
+Wall DEF|0.95%|1.80%|2.75%|3.65%|5.50%|7.70%
+Player Level 17
+
+Helmet|Berserker Tuskhelm
+Infantry ATK|0.85%|1.65%|2.50%|3.30%|5.00%|7.00%
+Trap ATK|1.60%|3.20%|5.00%|6.60%|10.00%|14.00%
+Army DEF|1.80%|3.45%|5.25%|6.90%|10.50%|14.70%
+Player Level 40
+
+Helmet|Chieftain Headdress
+Food Production|1.30%|3.90%|6.50%|9.10%|13.00%|18.20%
+Army Capacity|1.20%|2.40%|3.60%|4.80%|6.00%|8.40%
+Player Level 11
+
+Helmet|Deathgazer
+Trap ATK|1.60%|3.20%|5.00%|6.60%|10.00%|14.00%
+Army DEF|2.70%|5.30%|5.00%|10.55%|16.00%|22.40%
+Wall DEF|1.95%|3.80%|8.00%|7.60%|11.50%|16.10%
+Player Level 40
+
+Helmet|Devil Visage
+Army Capacity|3.40%|6.80%|10.20%|13.60%|17.00%|23.80%
+Army DEF|2.45%|4.80%|7.25%|9.60%|14.50%|20.30%
+Wall DEF|1.80%|3.45%|5.25%|6.90%|10.50%|14.70%
+Player Level 35
+
+Helmet|Gladiator Helm
+Army Capacity|2.90%|5.80%|8.70%|11.60%|14.50%|20.30%
+Wall DEF|1.55%|3.00%|6.25%|5.95%|9.00%|12.60%
+Player Level 29
+
+Helmet|Helmet of Conquest
+Gold Production|4.25%|8.50%|12.45%|16.45%|26.50%|37.10%
+Infantry ATK|0.85%|1.65%|2.50%|3.30%|5.00%|7.00%
+Trap ATK|1.55%|3.00%|4.50%|6.00%|9.00%|12.60%
+Player Level 35
+
+Helmet|Prosecutor's Will
+Infantry ATK|0.50%|1.00%|1.50%|2.00%|3.00%|4.20%
+Trap ATK|1.00%|2.00%|3.00%|4.00%|6.00%|8.40%
+Player Level 23
+
+Helmet|Skull King's Legacy
+Infantry ATK|0.15%|0.30%|0.50%|0.66%|1.00%|1.40%
+Trap ATK|0.30%|0.60%|1.00%|1.32%|2.00%|2.80%
+Player Level 5
+
+Helmet|Wanderer's Hood
+Food Production|3.20%|9.60%|16.00%|22.40%|32.00%|44.80%
+Trap ATK|1.25%|2.45%|3.75%|4.95%|7.50%|10.50%
+Army DEF|2.10%|4.10%|6.25%|8.25%|12.50%|17.50%
+Player Level 29
+
+Legs|Amethyst Boots
+Construction Speed|0.40%|1.20%|2.00%|2.80%|4.00%|5.60%
+Cavalry ATK|0.75%|1.50%|2.25%|3.00%|4.50%|6.30%
+Range ATK|0.75%|1.50%|2.25%|3.00%|4.50%|6.30%
+Player Level 40
+
+Legs|Atlas Ankle Locks
+Range ATK|0.40%|0.80%|1.25%|1.65%|2.50%|3.50%
+Army DEF|1.00%|2.00%|3.00%|4.00%|6.00%|8.40%
+Player Level 23
+
+Legs|Cobra Sandals
+Cavalry ATK|0.60%|1.15%|1.75%|2.30%|3.50%|4.90%
+Range ATK|0.60%|1.15%|1.75%|2.30%|3.50%|4.90%
+Player Level 29
+
+Legs|Durable Boots
+Cavalry ATK|0.75%|1.50%|2.25%|3.00%|4.50%|6.30%
+Range ATK|0.75%|1.50%|2.25%|3.00%|4.50%|6.30%
+Army DEF|1.60%|3.20%|5.00%|6.60%|10.00%|14.00%
+Player Level 40
+
+Legs|Dwarven Toe Guard
+Gold Production|2.55%|5.00%|7.50%|9.90%|16.00%|22.40%
+Range ATK|0.35%|0.65%|1.00%|1.30%|2.00%|2.80%
+Wall DEF|0.40%|0.80%|1.25%|1.65%|2.50%|3.50%
+Player Level 17
+
+Legs|Goatskin Boots
+Cavalry ATK|0.25%|0.50%|0.75%|1.00%|1.50%|2.10%
+Wall DEF|0.35%|0.65%|1.00%|1.32%|2.00%|2.80%
+Player Level 11
+
+Legs|Marsh Treaders
+Construction Speed|0.10%|0.30%|0.50%|0.70%|1.00%|1.40%
+Range ATK|0.15%|0.30%|0.50%|0.66%|1.00%|1.40%
+Player Level 3
+
+Legs|Nomad Boots
+Cavalry ATK|0.40%|0.80%|1.25%|1.65%|2.50%|3.50%
+Army Capacity|4.80%|9.60%|14.40%|19.20%|24.00%|33.60%
+Wall DEF|0.85%|1.65%|2.50%|3.30%|5.00%|7.00%
+Player Level 29
+
+Legs|Seafarer Cleats
+Construction Speed|0.35%|1.05%|1.75%|2.45%|3.50%|3.50%
+Cavalry ATK|0.70%|1.30%|2.00%|2.65%|4.00%|5.60%
+Army Capacity|5.50%|11.00%|16.50%|22.00%|27.50%|38.50%
+Player Level 35
+
+Legs|Sylph Sandals
+Cavalry ATK|0.40%|0.80%|1.25%|1.65%|2.50%|3.50%
+Range ATK|0.70%|1.30%|2.00%|2.65%|4.00%|5.60%
+Wall DEF|0.95%|1.80%|2.75%|3.65%|5.50%|7.70%
+Player Level 35
+
+Main-hand|Falcon Gale
+Cavalry ATK|1.60%|3.20%|5.00%|6.60%|10.00%|14.00%
+Range ATK|0.85%|1.65%|2.50%|3.30%|5.00%|7.00%
+Trap ATK|0.85%|1.65%|2.50%|3.30%|5.00%|7.00%
+Player Level 40
+
+Main-hand|Fatal Flail
+Infantry ATK|0.95%|1.80%|2.75%|3.65%|5.50%|7.70%
+Trap ATK|0.50%|1.00%|1.50%|2.00%|3.00%|4.20%
+Player Level 21
+
+Main-hand|Fiery Tomahawk
+Cavalry ATK|1.60%|3.20%|5.00%|6.60%|10.00%|14.00%
+Infantry ATK|1.10%|2.15%|3.25%|4.30%|6.50%|9.10%
+Range ATK|0.60%|1.15%|1.75%|2.30%|3.50%|4.90%
+Player Level 40
+
+Main-hand|Lumos Lance
+Construction Speed|0.55%|1.65%|2.75%|3.85%|5.50%|7.70%
+Infantry ATK|1.10%|2.15%|3.25%|4.25%|6.50%|9.10%
+Range ATK|0.60%|1.15%|1.75%|2.35%|3.50%|4.90%
+Player Level 27
+
+Main-hand|Reaper's Axe
+Cavalry ATK|0.25%|0.50%|0.75%|1.00%|1.50%|2.10%
+Infantry ATK|0.25%|0.50%|0.75%|1.00%|1.50%|2.10%
+Player Level 1
+
+Main-hand|Septic Spikes
+Cavalry ATK|1.55%|3.00%|4.50%|6.00%|9.00%|12.60%
+Infantry ATK|1.55%|3.00%|4.50%|6.00%|9.00%|12.60%
+Siege Engine ATK|1.00%|2.15%|3.25%|4.30%|6.50%|9.10%
+Player Level 35
+
+Main-hand|Shadow Steel
+Cavalry ATK|0.60%|1.15%|1.75%|2.35%|3.50%|4.90%
+Range ATK|0.35%|0.65%|1.00%|1.30%|2.00%|2.80%
+Siege Engine ATK|0.40%|0.80%|1.25%|1.65%|2.50%|3.50%
+Player Level 15
+
+Main-hand|Slayer's Sword
+Construction Speed|0.30%|0.90%|1.50%|2.25%|3.00%|4.20%
+Infantry ATK|0.50%|1.00%|1.50%|2.00%|3.00%|4.20%
+Player Level 15
+
+Main-hand|Tempest Crossbow
+Infantry ATK|1.35%|2.65%|4.00%|5.25%|8.00%|11.20%
+Range ATK|0.50%|1.00%|1.50%|2.00%|3.00%|4.20%
+Siege Engine ATK|0.60%|1.15%|1.75%|2.30%|3.50%|4.90%
+Player Level 31
+
+Main-hand|Trident
+Construction Speed|0.70%|2.10%|3.50%|4.90%|7.00%|9.80%
+Siege Engine ATK|1.10%|2.15%|3.25%|4.30%|6.50%|9.10%
+Trap ATK|0.85%|1.65%|2.50%|3.30%|5.00%|7.00%
+Player Level 35
+
+Main-hand|Venom Stinger
+Infantry ATK|1.60%|3.20%|5.00%|6.60%|10.00%|14.00%
+Range ATK|0.85%|1.65%|2.50%|3.30%|5.00%|7.00%
+Trap ATK|0.85%|1.65%|2.50%|3.30%|5.00%|7.00%
+Player Level 40
+
+Main-hand|Wrath Star
+Cavalry ATK|1.35%|2.65%|4.00%|5.25%|8.00%|11.20%
+Range ATK|0.70%|1.30%|2.00%|2.65%|4.00%|5.60%
+Player Level 31
+
+Off-hand|Crusader's Shield
+Infantry ATK|0.75%|1.50%|2.25%|3.00%|4.50%|6.30%
+Range ATK|1.10%|2.15%|3.25%|4.30%|6.50%|9.10%
+Siege Engine ATK|1.60%|3.20%|5.00%|6.60%|10.00%|14.00%
+Player Level 40
+
+Off-hand|Fiendish Fang
+Cavalry ATK|0.25%|0.50%|0.75%|1.00%|1.50%|2.10%
+Trap ATK|0.60%|1.15%|1.75%|2.30%|3.50%|4.90%
+Player Level 7
+
+Off-hand|Herald's Crest
+Cavalry ATK|0.40%|0.80%|1.25%|1.65%|2.50%|3.50%
+Trap ATK|0.35%|0.65%|1.00%|1.30%|2.00%|2.80%
+Army Max HP|1.10%|2.15%|3.25%|4.30%|6.50%|9.10%
+Player Level 19
+
+Off-hand|Lunar Scimitar
+Range ATK|1.55%|3.00%|4.50%|6.00%|9.00%|12.60%
+Siege Engine ATK|2.40%|4.60%|7.00%|9.25%|14.00%|19.60%
+Army Max HP|1.95%|3.80%|5.75%|7.60%|11.50%|16.10%
+Player Level 35
+
+Off-hand|Morning Star
+Infantry ATK|0.50%|1.00%|1.50%|2.00%|3.00%|4.20%
+Range ATK|1.10%|2.15%|3.25%|4.30%|6.50%|9.10%
+Player Level 25
+
+Off-hand|Noah's Cube
+Cavalry ATK|0.85%|1.65%|2.50%|3.30%|5.00%|7.00%
+Range ATK|1.00%|2.00%|3.00%|4.00%|6.00%|8.40%
+Siege Engine ATK|2.40%|4.60%|7.00%|9.25%|14.00%|19.60%
+Player Level 35
+
+Off-hand|Rabid Claws
+Cavalry ATK|0.70%|1.30%|2.00%|2.65%|4.00%|5.60%
+Infantry ATK|0.60%|1.15%|1.75%|2.30%|3.50%|4.90%
+Siege Engine ATK|1.95%|3.80%|5.75%|7.60%|11.50%|16.10%
+Player Level 31
+
+Off-hand|Tome of Saints
+Research Speed|0.35%|0.65%|1.00%|1.30%|2.00%|2.80%
+Range ATK|0.50%|1.00%|1.50%|2.00%|3.00%|4.20%
+Player Level 13
+
+Off-hand|Umbral Whisper
+Trap ATK|0.60%|1.15%|1.75%|2.30%|3.50%|4.90%
+Army Max HP|1.60%|3.20%|5.00%|6.60%|10.00%|14.00%
+Player Level 31
+
+Off-hand|Vice Grips
+Research Speed|0.50%|1.50%|2.50%|3.50%|5.00%|7.00%
+Trap ATK|7.50%|1.50%|2.25%|3.00%|4.50%|6.30%
+Army Max HP|2.20%|4.30%|6.50%|8.60%|13.00%|18.20%
+Player Level 40
+
+SetName|Emperor Set
+Accessory|Sovereign Signet
+Army ATK||||||42%
+Army DEF||||||28%
+Army HP||||||28%
+Enemy Army DEF Debuff||||||7%
+
+Armor|Regal Robes
+Army ATK|||||35%|49%
+Army DEF|||||50%|70%
+Army Max HP|||||25%|35%
+Enemy Army Max HP Debuff|||||5%|7%
+Reduced Upkeep|||||52%|72.80%
+
+Helmet|Noble Helm
+Army ATK|||||40%|56%
+Army DEF|||||10%|14%
+Army Max HP|||||40%|56%
+Enemy Army DEF Debuff|||||5%|7%
+
+Legs|Stately Tassets
+Army ATK|||||40%|56%
+Army DEF|||||25%|35%
+Army Max HP|||||25%|35%
+Enemy Army Max HP Debuff|||||5%|7%
+
+Main-hand|Kingslayer
+Army ATK|||||45%|63%
+Army DEF|||||25%|35%
+Army Max HP|||||15%|21%
+Enemy Army Max HP Debuff|||||5%|7%
+
+Off-hand|Imperial Bulwark
+Army ATK|||||35%|49%
+Army DEF|||||31%|42%
+Army Max HP|||||30%|42%
+Enemy Army DEF Debuff|||||5%|7%

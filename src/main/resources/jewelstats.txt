@@ -1,0 +1,55 @@
+Infantry ATK Jewel|Standard|Infantry ATK|percent|1|3|6|12|20
+Ranged ATK Jewel|Standard|Ranged ATK|percent|1|3|6|12|20
+Cavalry ATK Jewel|Standard|Cavalry ATK|percent|1|3|6|12|20
+Engine ATK Jewel|Standard|Siege Engine ATK|percent|1|3|6|12|20
+Trap ATK Jewel|Standard|Trap ATK|percent|1|3|6|12|20
+Infantry DEF Jewel|Standard|Infantry DEF|percent|1|3|6|12|20
+Ranged DEF Jewel|Standard|Ranged DEF|percent|1|3|6|12|20
+Cavalry DEF Jewel|Standard|Cavalry DEF|percent|1|3|6|12|20
+Trap DEF Jewel|Standard|Trap DEF|percent|1|3|6|12|20
+Wall DEF Jewel|Standard|Wall DEF|percent|1|3|6|12|20
+Gargantua Jewel|Monster|Cavalry ATK|percent|0.4|0.8|2|5|10
+Gargantua Jewel|Monster|Cavalry DEF|percent|0.4|0.8|2|5|10
+Wyrm Jewel|Monster|Ranged ATK|percent|0.4|0.8|2|5|10
+Wyrm Jewel|Monster|Ranged DEF|percent|0.4|0.8|2|5|10
+Terror Jewel|Monster|Infantry ATK|percent|0.4|0.8|2|5|10
+Terror Jewel|Monster|Infantry DEF|percent|0.4|0.8|2|5|10
+Gryphon Jewel|Monster|Trap ATK|percent|0.4|0.8|2|5|10
+Gryphon Jewel|Monster|Trap DEF|percent|0.4|0.8|2|5|10
+Saber Jewel|Monster|Cavalry Max HP|percent|0.6|1.2|3|7.5|15
+Saber Jewel|Monster|Travel Speed|percent|0.2|0.4|1|2.5|5
+Grim Jewel|Monster|Ranged Max HP|percent|0.6|1.2|3|7.5|15
+Grim Jewel|Monster|Travel Speed|percent|0.2|0.4|1|2.5|5
+Trojan Jewel|Monster|Infantry Max HP|percent|0.6|1.2|3|7.5|15
+Trojan Jewel|Monster|Travel Speed|percent|0.2|0.4|1|2.5|5
+Noceros Jewel|Monster|Food Production Rate|percent|1.2|2.4|6|15|30
+Noceros Jewel|Monster|Army Capacity|percent|0.8|1.6|4|10|20
+Swift Hunter Jewel|Bundle|Max Energy|number|40|80|200|500|1,000
+Swift Hunter Jewel|Bundle|Monster Hunt Travel Speed|percent|1.2|2.4|6|15|30
+Steampath Jewel|Bundle|Crafting Speed|percent|0.2|0.4|1|2.5|5
+Champion Jewel|Bundle|Travel Speed|percent|0.8|1.6|4|10|20
+Champion Jewel|Bundle|Army Max HP|percent|0.6|1.2|3|7.5|15
+Research Jewel|Turf|Research Speed|percent|0.2|0.4|1|2.5|5
+Construction Jewel|Turf|Construction Speed|percent|0.2|0.4|1|2.5|5
+Army Assault Jewel|Assault|Army ATK|percent|0.4|0.8|2|5|10
+IC Assault Jewel|Assault|Infantry ATK|percent|0.4|0.8|2|5|10
+IC Assault Jewel|Assault|Cavalry ATK|percent|0.2|0.4|1|2.5|5
+CR Assault Jewel|Assault|Cavalry ATK|percent|0.4|0.8|2|5|10
+CR Assault Jewel|Assault|Ranged ATK|percent|0.2|0.4|1|2.5|5
+RI Assault Jewel|Assault|Ranged ATK|percent|0.4|0.8|2|5|10
+RI Assault Jewel|Assault|Infantry ATK|percent|0.2|0.4|1|2.5|5
+Royal Cavalry Jewel|Royale|Cavalry ATK|percent|0.4|0.8|2|5|10
+Royal Cavalry Jewel|Royale|Cavalry Max HP|percent|0.4|0.8|2|5|10
+Royal Ranged Jewel|Royale|Ranged ATK|percent|0.4|0.8|2|5|10
+Royal Ranged Jewel|Royale|Ranged Max HP|percent|0.4|0.8|2|5|10
+Royal Infantry Jewel|Royale|Infantry ATK|percent|0.4|0.8|2|5|10
+Royal Infantry Jewel|Royale|Infantry Max HP|percent|0.4|0.8|2|5|10
+Eagle Jewel|Feudal|Cavalry ATK|percent|0.6|1.2|3|7.5|15
+Eagle Jewel|Feudal|Ranged ATK|percent|0.6|1.2|3|7.5|15
+Falcon Jewel|Feudal|Ranged ATK|percent|0.6|1.2|3|7.5|15
+Falcon Jewel|Feudal|Infantry ATK|percent|0.6|1.2|3|7.5|15
+Hawk Jewel|Feudal|Infantry ATK|percent|0.6|1.2|3|7.5|15
+Hawk Jewel|Feudal|Cavalry ATK|percent|0.6|1.2|3|7.5|15
+Dragon Infantry Jewel|Dragon|Infantry ATK|percent|0.6|1.2|3|7.5|15
+Dragon Range Jewel|Dragon|Range ATK|percent|0.6|1.2|3|7.5|15
+Dragon Cavalry Jewel|Dragon|Cavalry ATK|percent|0.6|1.2|3|7.5|15
